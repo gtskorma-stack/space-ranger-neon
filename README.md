@@ -1,2 +1,1 @@
-# space-ranger-neon
-Космический рейнджер: Неон — сборки для Яндекс Игр
+Private project.
